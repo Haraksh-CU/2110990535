@@ -10,7 +10,7 @@ int main ()
     cin>>num1;
     cout<<"Enter sec number:";
     cin>>num2;
-    cout<<"Enter sec number:";
+    cout<<"Enter  thirdnumber:";
     cin>>num3;
     cout<<"Enter third number:";
     sum = num1 + num2 + num3;
